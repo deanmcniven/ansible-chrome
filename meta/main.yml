@@ -1,2 +1,10 @@
 ---
 galaxy_info:
+  author: Dean McNiven
+  description: ansible-chrome
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
